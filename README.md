@@ -2,7 +2,7 @@
 My high school open-source project uses for learning Python and OpenCV
 
 ## How does it work?
-First, the program needs to input an image or a video. it was converted to grayscale for finding edges by ``` cv2.cvtColor() ``` function. Then, the program will detect shapes by exact contours (In this part you can custom contours as well.). At the same time, it will also detect text on a shape by Google Tesseract OCR. If they are in condition. Finally, the program will print the output by replacing a detection message into a resulting image or video.
+First, the program needs to input an image or a video. it was converted to grayscale for finding edges by ``` cv2.cvtColor() ``` function. Then, the program will detect shapes by exact contours (In this part you can custom contours as well.). At the same time, it will also detect text on a shape by Google Tesseract OCR. If they are in condition. Finally, the program will print the output by replacing a detection message into a result
 
 ## Getting Started
 ### Installing
