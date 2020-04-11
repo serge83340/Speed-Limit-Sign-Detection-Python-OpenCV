@@ -1,0 +1,7 @@
+*** Note ***
+
+You must not delete "text_detected" folder and "text_detected.png" image which inside the folder. It causes the program run error.
+
+All requirements are available in "requirement.txt". You can easily install by using "pip install -r requirement.txt".
+
+Remember that you have not forgotten to install Google Tesseract OCR.
